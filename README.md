@@ -1,13 +1,5 @@
 # Second Brain - AI-Powered Knowledge Management System
 
-> [!IMPORTANT]
-> **REFERENCE IMPLEMENTATION WARNING**
->
-> This is a template pattern, not a hosted product.
-> 1. **Do NOT request access** to any Notion page linked here. You must create your own.
-> 2. **Do NOT ask for permissions.** Follow the setup guide to build your own backend.
-> 3. This repository demonstrates the *pattern*. You must provide the *infrastructure*.
-
 > **Transform your thoughts into organized, actionable knowledge without writing a single line of code.**
 
 A fully automated Second Brain system that captures your thoughts from Slack, intelligently classifies them using AI (Google Gemini), and organizes them into structured Notion databases. This system works for you 24/7, turning scattered ideas into compounding knowledge.
